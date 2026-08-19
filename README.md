@@ -84,9 +84,7 @@ The objective of this project is to:
 ### 3️⃣ Details Dashboard
 
 <img width="996" height="570" alt="Screenshot 2026-08-19 122206" src="https://github.com/user-attachments/assets/e40420f6-1613-47a2-bb72-b270bacd464f" />
-
-
-
+<br>
 - Loan-level detailed table
 - Borrower details, loan purpose, grade, funded amount, interest rate, and collections
 - Used for detailed reporting and analysis
