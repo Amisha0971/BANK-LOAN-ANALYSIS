@@ -83,6 +83,8 @@ The objective of this project is to:
 
 ### 3️⃣ Details Dashboard
 
+"C:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot 2026-08-19 122206.png"
+
 - Loan-level detailed table
 - Borrower details, loan purpose, grade, funded amount, interest rate, and collections
 - Used for detailed reporting and analysis
