@@ -142,5 +142,5 @@ It highlights the ability to monitor loan portfolios, evaluate credit risk, and 
 ## 👩‍💻 Author
 
 **Amisha Ninawe**  
-Aspiring Data Analyst | SQL | Power BI | Python | Excel  
+ Data Analyst | SQL | Power BI | Python | Excel  
 ⭐ Feel free to star this repository if you find it useful!
